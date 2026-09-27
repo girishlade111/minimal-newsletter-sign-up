@@ -23,7 +23,7 @@ export default function NewsletterLandingPage() {
       <div
         className="absolute inset-0 bg-cover bg-center bg-no-repeat animate-slow-pan"
         style={{
-          backgroundImage: "url(/images/pastoral-landscape.jpg)",
+          backgroundImage: "url(/minimal-newsletter-sign-up/images/pastoral-landscape.jpg)",
         }}
       >
         <div className="absolute inset-0 bg-gradient-to-b from-black/65 via-black/50 to-black/75" />
